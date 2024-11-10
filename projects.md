@@ -7,10 +7,10 @@ This document is used to track all my repos and quickly see if something needs a
 
 | Repository Name    | Description               | Status | Published | Refactoring | Last Updated | Notes           |
 |--------------------|---------------------------|-----------|-----------|----------------------|--------------|-----------------|
-| Plantino Care | Developed in occasion of the Arduino Day 2023, the project aims to assist in plant management. | ✅ | 🔨 | ✅ | 2024-11-10 | Refactored |
-| FileOrganizer | Helps you organize files in a specified directory based on different criteria such as file type, date, or file size. | ✅ | 🔨 | 🔨 | 2024-08-30 | Needs refactoring |
-| IntegrityMonitor | A file integrity monitor built in PowerShell that checks if files in a folder are modified, deleted or added. | 🔨 | ✅ | 🔨 | 2024-11-07 | Not completed |
+| Plantino Care | Developed in occasion of the Arduino Day 2023, the project aims to assist in plant management | ✅ | 🔨 | ✅ | 2024-11-10 | Refactored |
+| FileOrganizer | Helps you organize files in a specified directory based on different criteria such as file type, date, or file size | ✅ | 🔨 | 🔨 | 2024-08-30 | Needs refactoring |
+| IntegrityMonitor | A file integrity monitor built in PowerShell that checks if files in a folder are modified, deleted or added | 🔨 | ✅ | 🔨 | 2024-11-07 | Not completed |
 | InfoCalc | Calculator for Information Theory | ✅ | 🔨 | ✅ | 2024-11-10 | Exe not working |
-| ServerHTTP | HTTP server capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections. | ✅ | 🔒 | ✅ | 2024-09-02 |  |
+| ServerHTTP | HTTP server capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections | ✅ | 🔒 | ✅ | 2024-09-02 |  |
 | JPokeBattle |  | 🔨 | 🔨 | 🔨 | 2024-11-07 | Not Public |
 | TotCloudApp |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | Not Public |
