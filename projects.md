@@ -14,3 +14,4 @@ This document is used to track all my repos and quickly see if something needs a
 | ServerHTTP | HTTP server capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections | ✅ | 🔒 | ✅ | 2024-09-02 |  |
 | JPokeBattle |  | 🔨 | 🔨 | 🔨 | 2024-11-07 | Not Public |
 | TotCloudApp |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | Not Public |
+| Portfolio |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | To do |
