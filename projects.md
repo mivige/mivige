@@ -16,3 +16,4 @@ This document is used to track all my repos and quickly see if something needs a
 | TotCloudApp |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | Not Public |
 | Portfolio |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | To do |
 | Airbnb |  | 🔨 | 🔨 | 🔨 | 2024-11-15 | Not Public |
+| AdventOfCode2024 |  | 🔨 | 🔒 | 🔒 | 2024-12-01 |  |
