@@ -13,7 +13,7 @@ This document is used to track all my repos and quickly see if something needs a
 | InfoCalc | Calculator for Information Theory | ✅ | ✅ | ✅ | 2024-11-13 | Published |
 | ServerHTTP | HTTP server capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections | ✅ | 🔒 | ✅ | 2024-09-02 |  |
 | JPokeBattle |  | 🔨 | 🔨 | 🔨 | 2024-11-07 | Not Public |
-| TotCloudApp |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | Not Public |
+| TotCloudApp |  | ✅ | 🔒 | 🔨 | 2024-11-10 |  |
 | Portfolio |  | 🔨 | 🔨 | 🔨 | 2024-11-10 | To do |
-| Airbnb |  | 🔨 | 🔨 | 🔨 | 2024-11-15 | Not Public |
+| Airbnb |  | ✅ | 🔒 | 🔨 | 2024-11-15 |  |
 | AdventOfCode2024 |  | 🔨 | 🔒 | 🔒 | 2024-12-01 |  |
